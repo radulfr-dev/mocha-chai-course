@@ -1,0 +1,16 @@
+{
+  "name": "mocha-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha './test/**/*.spec.js'"
+  },
+  "author": "Cameron Raw",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "mocha": "^8.2.1"
+  }
+}
